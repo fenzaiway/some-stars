@@ -2,7 +2,7 @@
 
 # Some Stars
 
-⭐ <a href="https://jerryz.com.cn/"  target="_blank">Jerry Zhou</a>的star列表，每周自动更新 ⭐
+⭐ <a href="https://gpt.xnic.top/"  target="_blank">xnic</a>的star列表，每周自动更新 ⭐
 
 </div><br>
 
