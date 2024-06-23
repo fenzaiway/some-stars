@@ -137,7 +137,7 @@
 
 *   [fantasticit/think](https://github.com/fantasticit/think) - 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
 
-*   [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
+*   [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://ahooks.pages.dev/
 
 *   [JS-banana/vite-vue3-ts](https://github.com/JS-banana/vite-vue3-ts) - vite、vue3、script setup、TypeScript、pinia、ant-design-vue
 
@@ -313,7 +313,7 @@
 
 *   [RawChat/RawChat](https://github.com/RawChat/RawChat) -
 
-*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
+*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
 
 *   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 
@@ -333,7 +333,7 @@
 
 *   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 
-*   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的5000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖
+*   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖
 
 *   [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。
 
@@ -959,8 +959,6 @@
 
 *   [ifyour/cf-image-hosting](https://github.com/ifyour/cf-image-hosting) - 🥊  Free & Unlimited Image Hosting
 
-*   [MagicalMadoka/cf-sd-to-dalle3](https://github.com/MagicalMadoka/cf-sd-to-dalle3) - 将 Cloudflare 的 Stable Diffusion 模型转换为 OpenAI DALL-E 3 接口兼容的格式
-
 *   [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,tts, whisper,suno-v3 ; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
 
 *   [sparrow-js/an-codeAI](https://github.com/sparrow-js/an-codeAI) - AI generate code
@@ -1323,6 +1321,10 @@
 
 *   [DivXPro/vue-fullcalendar](https://github.com/DivXPro/vue-fullcalendar) - vue calendar fullCalendar. no jquery required. Schedule events management
 
+*   [Wanderxx/vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar) - vue calendar fullCalendar. no jquery required. Schedule events management
+
+*   [Tencent/wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
+
 ## Java
 
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
@@ -1347,7 +1349,7 @@
 
 *   [mjjonone/mjj](https://github.com/mjjonone/mjj) - 该仓库提供了一键部署mjj试用项目的镜像和脚本,支持多种容器平台。包含科学上网功能,可以查看节点信息和订阅链接。同时包含Minecraft服务器搭建方案。
 
-*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，集成argo固定、临时隧道功能，支持多节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
+*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持alpine系统，集成argo固定临时隧道功能，支持多节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
 
 *   [xyhelper/chatgpt-api-server-deploy](https://github.com/xyhelper/chatgpt-api-server-deploy) -
 
@@ -1396,8 +1398,6 @@
 ## PHP
 
 *   [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
-
-*   [uvham521/WebStack-Laravel](https://github.com/uvham521/WebStack-Laravel) - 一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。
 
 *   [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
 
