@@ -8,19 +8,19 @@
 
 ## Table of Contents
 
+*   [Go](#go)
+*   [Python](#python)
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
-*   [Python](#python)
 *   [Kotlin](#kotlin)
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [Svelte](#svelte)
-*   [Go](#go)
 *   [C](#c)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [Java](#java)
-*   [Shell](#shell)
 *   [Swift](#swift)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Batchfile](#batchfile)
@@ -42,6 +42,254 @@
 *   [SCSS](#scss)
 *   [Less](#less)
 *   [Makefile](#makefile)
+
+## Go
+
+*   [aurorax-neo/free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
+
+*   [aurora-develop/Duck2api](https://github.com/aurora-develop/Duck2api) -
+
+*   [linux-do/new-api](https://github.com/linux-do/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
+
+*   [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！
+
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+
+*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
+
+*   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
+
+*   [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
+
+*   [xqdoo00o/ChatGPT-to-API](https://github.com/xqdoo00o/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
+
+*   [acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
+
+*   [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
+
+*   [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+
+*   [px-org/PanIndex](https://github.com/px-org/PanIndex) - Network disk directory index / 网盘目录索引
+
+*   [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+*   [noxue/gocms](https://github.com/noxue/gocms) - 不学网官网后台接口
+
+*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+
+*   [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP por...
+
+*   [LyricTian/gin-admin](https://github.com/LyricTian/gin-admin) - A lightweight, flexible, elegant and full-featured RBAC scaffolding based on GIN + GORM 2.0 + Casbin 2.0 + Wire DI.
+
+*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+
+*   [andeya/pholcus](https://github.com/andeya/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
+
+*   [gourouting/singo](https://github.com/gourouting/singo) - Gin+Gorm开发Golang API快速开发脚手架
+
+*   [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+
+*   [gwuhaolin/lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
+
+*   [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
+
+*   [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
+
+*   [admpub/nging](https://github.com/admpub/nging) - Go语言Web管理面板，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy和Nginx配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备
+
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
+*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,...
+
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+
+## Python
+
+*   [DAMO-NLP-SG/WebDesignAgent](https://github.com/DAMO-NLP-SG/WebDesignAgent) - An agent used for webdesign
+
+*   [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux
+
+*   [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack) - 非付费会员，fofa数据采集工具
+
+*   [MrMohebi/xray-proxy-grabber-telegram](https://github.com/MrMohebi/xray-proxy-grabber-telegram) - Xray proxy grabber and checker + JSON and YAML Config - telegram channels
+
+*   [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - The Script Gathers Juicity, Hysteria, Tuic, Vless, Vmess, Trojan, and Shadowsocks Configurations From Telegram Channels and Subscription Links
+
+*   [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
+
+*   [Anonym0usWork1221/Free-Proxies](https://github.com/Anonym0usWork1221/Free-Proxies) - Update free every 2 hours
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [mahdibland/V2RayAggregator](https://github.com/mahdibland/V2RayAggregator) - Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed
+
+*   [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult...
+
+*   [mfuu/v2ray](https://github.com/mfuu/v2ray) - v2ray nodes
+
+*   [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+
+*   [gacjie/cf2dns](https://github.com/gacjie/cf2dns) - cf2dns宝塔插件版
+
+*   [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
+
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - 自动签到、自动注册、订阅聚合及爬取脚本等
+
+*   [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may ...
+
+*   [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
+
+*   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
+
+*   [wistbean/learn\_python3\_spider](https://github.com/wistbean/learn_python3_spider) - python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式...
+
+*   [WeChatAPIs/WechatBotCMD](https://github.com/WeChatAPIs/WechatBotCMD) - 微信机器人WechatBotCMD是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
+
+*   [barry-far/V2ray-Configs](https://github.com/barry-far/V2ray-Configs) - 🛰️✨ Free V2ray Configs , Updating Every 10 minutes.
+
+*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
+
+*   [ZhiXuanWang/cf-speed-dns](https://github.com/ZhiXuanWang/cf-speed-dns) - CloudflareSpeedTest 推送「每5分钟自选优选 IP」https://ip.164746.xyz
+
+*   [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见  https://ai-jupyter.com
+
+*   [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe) -
+
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+
+*   [gxcuizy/Python](https://github.com/gxcuizy/Python) - Python3编写的各种大小程序，包含从零学Python系列、12306抢票、省市区地址库以及系列网站爬虫等学习源码
+
+*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+
+*   [QvQQ/ChatGPT-Register](https://github.com/QvQQ/ChatGPT-Register) - ChatGPT-Register！免代理、不限量地注册 OpenAI 的 ChatGPT 账号。
+
+*   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
+
+*   [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+
+*   [bulianglin/demo](https://github.com/bulianglin/demo) - 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴
+
+*   [yihong0618/tg\_bing\_dalle](https://github.com/yihong0618/tg_bing_dalle) - Telegram bing bot DALL-E 3
+
+*   [KunBuFZ/Pandora-Token-Get-and-Use](https://github.com/KunBuFZ/Pandora-Token-Get-and-Use) -
+
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+
+*   [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience.
+
+*   [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
+
+*   [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开...
+
+*   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+
+*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+*   [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持插件、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、GPT 4o、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
+
+*   [PuddinCat/Free-ChatGPT-ChatBot](https://github.com/PuddinCat/Free-ChatGPT-ChatBot) - 在网上搜刮免费的ChatGPT第三方站点|白嫖ChatGPT
+
+*   [1nchaos/adata](https://github.com/1nchaos/adata) - 免费开源A股量化数据库； 专注A股，专注量化，向阳而生； 开放、纯净、持续、为Ai(爱)发电。为个人量化交易而生，保卫3000(2500)点，珍惜底部机会......【股票数据，股票行情数据，股票量化数据，股票交易数据，k线行情数据，股票概念数据，股票数据接口，行情数据接口】【多数据源融合，动态设置代理，保障数据高可用性】
+
+*   [ramon-victor/freegpt-webui](https://github.com/ramon-victor/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
+
+*   [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
+
+*   [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
+
+*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss...
+
+*   [father-bot/chatgpt\_telegram\_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
+
+*   [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
+
+*   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
+
+*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+
+*   [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+*   [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
+
+*   [aiirobyte/TopFreeProxies](https://github.com/aiirobyte/TopFreeProxies) - 高质量免费节点分享，以及订阅链接收集。
+
+*   [efonfighting/efonmark-wechat-spider](https://github.com/efonfighting/efonmark-wechat-spider) - 微信公众号文章下载，并保存为pdf
+
+*   [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
+
+*   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
+
+*   [AntonVanke/JDBrandMember](https://github.com/AntonVanke/JDBrandMember) - 京东自动入会获取京豆
+
+*   [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) -
+
+*   [Hironsan/BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
+
+*   [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) - 网页版微信API，包含终端版微信及微信机器人
+
+*   [SpiderClub/haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling\_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
+
+*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
+
+*   [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
+
+*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+
+*   [zhaoyingjun/chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT带火了聊天机器人，主流的趋势都调整到了GPT类模式，本项目也与时俱进，会在近期更新GPT类版本。基于本项目和自己的语料可以训练出自己想要的聊天机器人，用于智能客服、在线问答、闲聊等场景。
+
+*   [lcdevelop/ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse) - 自己动手做聊天机器人教程
+
+*   [hyperbluer/tuhu\_spider](https://github.com/hyperbluer/tuhu_spider) - 途虎网车型库、保养周期表数据爬虫
+
+*   [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
+
+*   [sshwsfc/xadmin](https://github.com/sshwsfc/xadmin) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
+
+## Shell
+
+*   [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection
+
+*   [mjjonone/mjj](https://github.com/mjjonone/mjj) - 该仓库提供了一键部署mjj试用项目的镜像和脚本,支持多种容器平台。包含科学上网功能,可以查看节点信息和订阅链接。同时包含Minecraft服务器搭建方案。
+
+*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持alpine系统，集成argo固定临时隧道功能，支持多节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
+
+*   [xyhelper/chatgpt-api-server-deploy](https://github.com/xyhelper/chatgpt-api-server-deploy) -
+
+*   [xyhelper/chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - chatgpt-mirror-server快速部署库文件
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+
+*   [xiaoluoboding/monthly](https://github.com/xiaoluoboding/monthly) - 📖 聚焦前端，记录过去一个月看到的优秀的文章、工具，丰富前端技术栈。每月28日更新。你可以 Watch 它，相当于订阅。
+
+*   [hijkpw/scripts](https://github.com/hijkpw/scripts) - Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
+
+*   [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
+
+*   [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
+
+*   [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin...
+
+*   [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
+
+*   [P3TERX/aria2.sh](https://github.com/P3TERX/aria2.sh) - Aria2 一键安装管理脚本 增强版
+
+*   [samuelhbne/vpn-launchpad](https://github.com/samuelhbne/vpn-launchpad) - Build VPN server on AWS EC2 with QR code support. Build SOCKS/HTTP/DNS proxy locally. Support Ubuntu, OSX and Debian variants like Raspbian.
+
+*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 
 ## TypeScript
 
@@ -275,7 +523,7 @@
 
 ## miscellaneous
 
-*   [Cry1ngMan/1](https://github.com/Cry1ngMan/1) - ❤💛💚💙💜　定期更新　❤💛💚💙💜　免费白嫖　❤💛💚💙💜　公益节点　❤💛💚💙💜　机场分享　❤💛💚💙💜　订阅链接　❤💛💚💙💜　科学上网　❤💛💚💙💜　梯子翻墙　❤💛💚💙💜　谷歌商店　❤💛💚💙💜　部署爬取　❤💛💚💙💜vpn　trojan❤💛💚💙💜clash　v2ray❤💛💚💙💜
+*   [Cry1ngMan/1](https://github.com/Cry1ngMan/1) - ❤️💛💚💙💜　定期更新　❤️💛💚💙💜　免费白嫖　❤️💛💚💙💜　公益节点　❤️💛💚💙💜　机场分享　❤️💛💚💙💜　订阅链接　❤️💛💚💙💜　科学上网　❤️💛💚💙💜　梯子翻墙　❤️💛💚💙💜　谷歌商店　❤️💛💚💙💜　部署爬取　❤️💛💚💙💜vpn　trojan❤️💛💚💙💜clash　v2ray❤️💛💚💙💜
 
 *   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 
@@ -333,7 +581,7 @@
 
 *   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 
-*   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖
+*   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖【tg百科】
 
 *   [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。
 
@@ -543,154 +791,6 @@
 
 *   [jobbole/awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等。由「开源前哨」和「前端大全」微信公号团队维护更新。
 
-## Python
-
-*   [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux
-
-*   [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack) - 非付费会员，fofa数据采集工具
-
-*   [MrMohebi/xray-proxy-grabber-telegram](https://github.com/MrMohebi/xray-proxy-grabber-telegram) - Xray proxy grabber and checker + JSON and YAML Config - telegram channels
-
-*   [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - The Script Gathers Juicity, Hysteria, Tuic, Vless, Vmess, Trojan, and Shadowsocks Configurations From Telegram Channels and Subscription Links
-
-*   [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
-
-*   [Anonym0usWork1221/Free-Proxies](https://github.com/Anonym0usWork1221/Free-Proxies) - Update free every 2 hours
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [mahdibland/V2RayAggregator](https://github.com/mahdibland/V2RayAggregator) - Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed
-
-*   [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult...
-
-*   [mfuu/v2ray](https://github.com/mfuu/v2ray) - v2ray nodes
-
-*   [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
-
-*   [gacjie/cf2dns](https://github.com/gacjie/cf2dns) - cf2dns宝塔插件版
-
-*   [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
-
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - 自动签到、自动注册、订阅聚合及爬取脚本等
-
-*   [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may ...
-
-*   [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-
-*   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-
-*   [wistbean/learn\_python3\_spider](https://github.com/wistbean/learn_python3_spider) - python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式...
-
-*   [WeChatAPIs/WechatBotCMD](https://github.com/WeChatAPIs/WechatBotCMD) - 微信机器人WechatBotCMD是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
-
-*   [barry-far/V2ray-Configs](https://github.com/barry-far/V2ray-Configs) - 🛰️✨ Free V2ray Configs , Updating Every 10 minutes.
-
-*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-
-*   [ZhiXuanWang/cf-speed-dns](https://github.com/ZhiXuanWang/cf-speed-dns) - CloudflareSpeedTest 推送「每5分钟自选优选 IP」https://ip.164746.xyz
-
-*   [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 https://www.zglg.work
-
-*   [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe) -
-
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-
-*   [gxcuizy/Python](https://github.com/gxcuizy/Python) - Python3编写的各种大小程序，包含从零学Python系列、12306抢票、省市区地址库以及系列网站爬虫等学习源码
-
-*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
-
-*   [QvQQ/ChatGPT-Register](https://github.com/QvQQ/ChatGPT-Register) - ChatGPT-Register！免代理、不限量地注册 OpenAI 的 ChatGPT 账号。
-
-*   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
-
-*   [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
-
-*   [bulianglin/demo](https://github.com/bulianglin/demo) - 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴
-
-*   [yihong0618/tg\_bing\_dalle](https://github.com/yihong0618/tg_bing_dalle) - Telegram bing bot DALL-E 3
-
-*   [KunBuFZ/Pandora-Token-Get-and-Use](https://github.com/KunBuFZ/Pandora-Token-Get-and-Use) -
-
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-
-*   [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience.
-
-*   [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
-
-*   [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开...
-
-*   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-
-*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持插件、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、GPT 4o、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
-
-*   [PuddinCat/Free-ChatGPT-ChatBot](https://github.com/PuddinCat/Free-ChatGPT-ChatBot) - 在网上搜刮免费的ChatGPT第三方站点|白嫖ChatGPT
-
-*   [1nchaos/adata](https://github.com/1nchaos/adata) - 免费开源A股量化数据库； 专注A股，专注量化，向阳而生； 开放、纯净、持续、为Ai(爱)发电。为个人量化交易而生，保卫3000(2500)点，珍惜底部机会......【股票数据，股票行情数据，股票量化数据，股票交易数据，k线行情数据，股票概念数据，股票数据接口，行情数据接口】【多数据源融合，动态设置代理，保障数据高可用性】
-
-*   [ramon-victor/freegpt-webui](https://github.com/ramon-victor/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
-
-*   [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
-
-*   [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
-
-*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss...
-
-*   [father-bot/chatgpt\_telegram\_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
-
-*   [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
-
-*   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
-
-*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
-
-*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-*   [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-*   [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
-
-*   [aiirobyte/TopFreeProxies](https://github.com/aiirobyte/TopFreeProxies) - 高质量免费节点分享，以及订阅链接收集。
-
-*   [efonfighting/efonmark-wechat-spider](https://github.com/efonfighting/efonmark-wechat-spider) - 微信公众号文章下载，并保存为pdf
-
-*   [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
-
-*   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
-
-*   [AntonVanke/JDBrandMember](https://github.com/AntonVanke/JDBrandMember) - 京东自动入会获取京豆
-
-*   [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) -
-
-*   [Hironsan/BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
-
-*   [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) - 网页版微信API，包含终端版微信及微信机器人
-
-*   [SpiderClub/haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling\_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
-
-*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
-
-*   [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
-
-*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
-
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-
-*   [zhaoyingjun/chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT带火了聊天机器人，主流的趋势都调整到了GPT类模式，本项目也与时俱进，会在近期更新GPT类版本。基于本项目和自己的语料可以训练出自己想要的聊天机器人，用于智能客服、在线问答、闲聊等场景。
-
-*   [lcdevelop/ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse) - 自己动手做聊天机器人教程
-
-*   [hyperbluer/tuhu\_spider](https://github.com/hyperbluer/tuhu_spider) - 途虎网车型库、保养周期表数据爬虫
-
-*   [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
-
-*   [sshwsfc/xadmin](https://github.com/sshwsfc/xadmin) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
-
 ## Kotlin
 
 *   [Leon406/SubCrawler](https://github.com/Leon406/SubCrawler) - 节点爬取,筛选, google ping,支持Clash,base64订阅解析,生成可用的ss, ssr, v2ray, trojan,vless节点. (若不进行二次开发,请不要fork)
@@ -843,70 +943,6 @@
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 
-## Go
-
-*   [aurora-develop/Duck2api](https://github.com/aurora-develop/Duck2api) -
-
-*   [linux-do/new-api](https://github.com/linux-do/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
-
-*   [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！
-
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-
-*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
-
-*   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
-
-*   [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
-
-*   [xqdoo00o/ChatGPT-to-API](https://github.com/xqdoo00o/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
-
-*   [acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
-
-*   [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
-
-*   [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
-
-*   [px-org/PanIndex](https://github.com/px-org/PanIndex) - Network disk directory index / 网盘目录索引
-
-*   [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
-*   [noxue/gocms](https://github.com/noxue/gocms) - 不学网官网后台接口
-
-*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-
-*   [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP por...
-
-*   [LyricTian/gin-admin](https://github.com/LyricTian/gin-admin) - A lightweight, flexible, elegant and full-featured RBAC scaffolding based on GIN + GORM 2.0 + Casbin 2.0 + Wire DI.
-
-*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
-
-*   [andeya/pholcus](https://github.com/andeya/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
-
-*   [gourouting/singo](https://github.com/gourouting/singo) - Gin+Gorm开发Golang API快速开发脚手架
-
-*   [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
-
-*   [gwuhaolin/lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
-
-*   [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
-
-*   [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
-
-*   [admpub/nging](https://github.com/admpub/nging) - Go语言Web管理面板，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy和Nginx配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备
-
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-
-*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,...
-
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-
 ## C
 
 *   [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
@@ -959,7 +995,7 @@
 
 *   [ifyour/cf-image-hosting](https://github.com/ifyour/cf-image-hosting) - 🥊  Free & Unlimited Image Hosting
 
-*   [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,tts, whisper,suno-v3 ; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
+*   [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno-v3,luma ; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
 
 *   [sparrow-js/an-codeAI](https://github.com/sparrow-js/an-codeAI) - AI generate code
 
@@ -1185,7 +1221,7 @@
 
 *   [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 
-*   [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的动态表单生成器，通过数据驱动表单渲染，支持可视化设计。提高开发者对表单的开发效率。目前在OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
+*   [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的动态表单生成器，通过数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 
 *   [genany/gen](https://github.com/genany/gen) - Gen是根据接口生成页面，减少重复性工作！ 目标让用户快速搭建Web App
 
@@ -1319,12 +1355,6 @@
 
 *   [jjonline/calendar.js](https://github.com/jjonline/calendar.js) - 中国农历（阴阳历）和西元阳历即公历互转JavaScript库
 
-*   [DivXPro/vue-fullcalendar](https://github.com/DivXPro/vue-fullcalendar) - vue calendar fullCalendar. no jquery required. Schedule events management
-
-*   [Wanderxx/vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar) - vue calendar fullCalendar. no jquery required. Schedule events management
-
-*   [Tencent/wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
-
 ## Java
 
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
@@ -1344,36 +1374,6 @@
 *   [b3log/solo](https://github.com/b3log/solo) - 仓库已经迁移到 https://github.com/88250/solo
 
 *   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
-
-## Shell
-
-*   [mjjonone/mjj](https://github.com/mjjonone/mjj) - 该仓库提供了一键部署mjj试用项目的镜像和脚本,支持多种容器平台。包含科学上网功能,可以查看节点信息和订阅链接。同时包含Minecraft服务器搭建方案。
-
-*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持alpine系统，集成argo固定临时隧道功能，支持多节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
-
-*   [xyhelper/chatgpt-api-server-deploy](https://github.com/xyhelper/chatgpt-api-server-deploy) -
-
-*   [xyhelper/chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - chatgpt-mirror-server快速部署库文件
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-
-*   [xiaoluoboding/monthly](https://github.com/xiaoluoboding/monthly) - 📖 聚焦前端，记录过去一个月看到的优秀的文章、工具，丰富前端技术栈。每月28日更新。你可以 Watch 它，相当于订阅。
-
-*   [hijkpw/scripts](https://github.com/hijkpw/scripts) - Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
-
-*   [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
-
-*   [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
-
-*   [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin...
-
-*   [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
-
-*   [P3TERX/aria2.sh](https://github.com/P3TERX/aria2.sh) - Aria2 一键安装管理脚本 增强版
-
-*   [samuelhbne/vpn-launchpad](https://github.com/samuelhbne/vpn-launchpad) - Build VPN server on AWS EC2 with QR code support. Build SOCKS/HTTP/DNS proxy locally. Support Ubuntu, OSX and Debian variants like Raspbian.
-
-*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 
 ## Swift
 
@@ -1441,7 +1441,7 @@
 
 *   [anran-world/ios-ssr](https://github.com/anran-world/ios-ssr) - 公众号：OMGA，获取最新推送，Shadowrocket（小火箭）、Potatso-Lite在线安装，无需登录海外ID
 
-*   [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。
+*   [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。https://niceshare.site/
 
 *   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
 
