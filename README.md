@@ -17,12 +17,12 @@
 *   [JavaScript](#javascript)
 *   [Swift](#swift)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [HTML](#html)
 *   [CSS](#css)
 *   [Go](#go)
 *   [Lua](#lua)
 *   [Dart](#dart)
 *   [Ruby](#ruby)
+*   [HTML](#html)
 *   [Rust](#rust)
 *   [Svelte](#svelte)
 *   [C++](#c)
@@ -120,8 +120,6 @@
 *   [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) - Cloudflare反代优选IP库
 
 *   [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree) - v2ray节点、免费节点、免费v2ray节点、最新公益免费v2ray节点订阅地址、免费v2ray节点每日更新、免费ss/v2ray/trojan节点、freefq
-
-*   [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器
 
 *   [changfengoss/pub](https://github.com/changfengoss/pub) - 科学上网工具
 
@@ -381,7 +379,7 @@
 
 *   [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Your Next Store: Modern Commerce with Next.js and Stripe as the backend.
 
-*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
+*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、探索版、K1思考模型、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 
 *   [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 
@@ -479,7 +477,7 @@
 
 *   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code In...
 
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 
 *   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 
@@ -691,6 +689,8 @@
 
 *   [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) -
 
+*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
+
 *   [gshtwy/socks5-hysteria2-for-Serv00-CT8](https://github.com/gshtwy/socks5-hysteria2-for-Serv00-CT8) - Installation scripts for Socks5 on Serv00
 
 *   [CatMe0w/zouxian](https://github.com/CatMe0w/zouxian) - Permanent Apple Intelligence + Xcode Predictive Code Completion for Chinese-market Mac computers
@@ -701,7 +701,7 @@
 
 *   [mjjonone/mjj](https://github.com/mjjonone/mjj) - 该仓库提供了一键部署mjj试用项目的镜像和脚本,支持多种容器平台。包含科学上网功能,可以查看节点信息和订阅链接。同时包含Minecraft服务器搭建方案。
 
-*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
+*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持最新的Xhttp传输协议，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
 
 *   [xyhelper/chatgpt-api-server-deploy](https://github.com/xyhelper/chatgpt-api-server-deploy) -
 
@@ -1009,15 +1009,13 @@
 
 *   [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开...
 
-*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
-
 *   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
-*   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - \[WebUI Beta 测试✨]  😎高稳定、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、Moonshot（Kimi）、gpt4free、Ollama、Gitee AI、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台；原名 QChatGPT
+*   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - \[WebUI Beta 测试✨]  😎高稳定、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini、gpt4free、Ollama、Dify、Gitee AI 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台；原名 QChatGPT
 
 *   [PuddinCat/Free-ChatGPT-ChatBot](https://github.com/PuddinCat/Free-ChatGPT-ChatBot) - 在网上搜刮免费的ChatGPT第三方站点|白嫖ChatGPT
 
@@ -1145,6 +1143,8 @@
 
 *   [cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB) - 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
 
+*   [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器
+
 *   [3Kmfi6HP/EDtunnel](https://github.com/3Kmfi6HP/EDtunnel) - Use Cloudflare pages and worker serverless to implement VLESS protocol
 
 *   [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
@@ -1213,7 +1213,7 @@
 
 *   [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载 7.解锁GPT4-Mobile
 
-*   [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 基于React: v18.x.x/Webpack: v5.x.x//Vite: 4.x.x/React Router v6.x.x/ Antd: v5..x.x/Typescript: v5.x.x/Fetch Api/等最新版本进行构建的企业级中台前端基础模板...
+*   [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 基于React: v18.x.x/Webpack: v5.x.x//Vite: 4.x.x/React Router v6.x.x/ Antd: v5..x.x/Typescript: v5.x.x/Fetch Api进行构建的企业级中台基础模板...
 
 *   [tobe-fe-dalao/fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3) - Vue3+Vite+Ts+Pinia+....一个快速开发vue3的模板框架，快速搭建前台应用
 
@@ -1587,65 +1587,9 @@
 
 *   [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -
 
+*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
+
 *   [cedricporter/funcat](https://github.com/cedricporter/funcat) - Funcat 将同花顺、通达信、文华财经麦语言等的公式写法移植到了 Python 中。
-
-## HTML
-
-*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
-
-*   [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
-
-*   [aledipa/Free-GPT4-WEB-API](https://github.com/aledipa/Free-GPT4-WEB-API) - FreeGPT4-WEB-API is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI (and much more).
-
-*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [Mohammadgb0078/IRV2ray](https://github.com/Mohammadgb0078/IRV2ray) - Free V2ray Servers For Iran
-
-*   [bulianglin/psub](https://github.com/bulianglin/psub) - 利用CF Worker搭建的反代订阅转换工具
-
-*   [wx-chevalier/Awesome-Methodologies](https://github.com/wx-chevalier/Awesome-Methodologies) - :books: Ultimate CheatSheets(Tutorials\&MindMap), overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. :dizzy:  干货满满的全栈开发速学速查手册集锦
-
-*   [LouisShark/chatgpt\_system\_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
-
-*   [yibhou/charles-share](https://github.com/yibhou/charles-share) - Charles 代理工具分享
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
-
-*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-
-*   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
-
-*   [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
-
-*   [beakerbrowser/beakerbrowser.com](https://github.com/beakerbrowser/beakerbrowser.com) - Source code for https://beakerbrowser.com
-
-*   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
-
-*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
-
-*   [iiiiiii1/CTList](https://github.com/iiiiiii1/CTList) - Sample list for CTCloud.
-
-*   [eddycjy/blog](https://github.com/eddycjy/blog) - 煎鱼的博客，有点忙，传送门：https://eddycjy.com
-
-*   [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
-
-*   [zTree/zTree\_v3](https://github.com/zTree/zTree_v3) - jQuery Tree Plugin
-
-*   [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 前端开发面试题大收集，前端面试集锦 :heart: :gift\_heart: :cupid:
-
-*   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新8.00版 无界21.32正式版 自由门VPN 自由门 自由门使用教程 无界 无界浏览 无界VPN 翻墙软件 翻墙软件下载 翻墙软件教程 Mac翻墙软件 --自由天空
-
-*   [jackhutu/jackblog-api-koa](https://github.com/jackhutu/jackblog-api-koa) - Jackblog API Server Koa 版, 个人博客系统,  基于RESTful架构, 使用Node.js, Koa, MongoDB, Redis, Token Auth, 七牛云存储等.
-
-*   [54sword/xiaoduyuReactNative](https://github.com/54sword/xiaoduyuReactNative) - 🐟小度鱼 - 年轻人的交流社区 https://www.xiaoduyu.com
-
-*   [sandywalker/webui-popover](https://github.com/sandywalker/webui-popover) - A lightWeight popover plugin with jquery ,enchance the popover plugin of bootstrap with some awesome new features
-
-*   [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 
 ## CSS
 
@@ -1725,7 +1669,7 @@
 
 *   [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP por...
 
-*   [LyricTian/gin-admin](https://github.com/LyricTian/gin-admin) - A lightweight, flexible, elegant and full-featured RBAC scaffolding based on GIN + GORM 2.0 + Casbin 2.0 + Wire DI.
+*   [LyricTian/gin-admin](https://github.com/LyricTian/gin-admin) - A lightweight, flexible, elegant and full-featured RBAC scaffolding based on GIN + GORM 2.0 + Casbin 2.0 + Wire DI.基于 Golang + Gin + GORM 2.0 + Casbin 2.0 + Wire DI 的轻量级、灵活、优雅且功能齐全的 RBAC 脚手架。
 
 *   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 
@@ -1766,6 +1710,62 @@
 *   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 *   [jameszhan/xmly-download](https://github.com/jameszhan/xmly-download) - \[喜马拉雅]付费音频批量下载工具
+
+## HTML
+
+*   [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+
+*   [aledipa/Free-GPT4-WEB-API](https://github.com/aledipa/Free-GPT4-WEB-API) - FreeGPT4-WEB-API is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI (and much more).
+
+*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [Mohammadgb0078/IRV2ray](https://github.com/Mohammadgb0078/IRV2ray) - Free V2ray Servers For Iran
+
+*   [bulianglin/psub](https://github.com/bulianglin/psub) - 利用CF Worker搭建的反代订阅转换工具
+
+*   [wx-chevalier/Awesome-Methodologies](https://github.com/wx-chevalier/Awesome-Methodologies) - :books: Ultimate CheatSheets(Tutorials\&MindMap), overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. :dizzy:  干货满满的全栈开发速学速查手册集锦
+
+*   [LouisShark/chatgpt\_system\_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
+
+*   [yibhou/charles-share](https://github.com/yibhou/charles-share) - Charles 代理工具分享
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
+
+*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+
+*   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
+
+*   [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
+
+*   [beakerbrowser/beakerbrowser.com](https://github.com/beakerbrowser/beakerbrowser.com) - Source code for https://beakerbrowser.com
+
+*   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
+
+*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
+
+*   [iiiiiii1/CTList](https://github.com/iiiiiii1/CTList) - Sample list for CTCloud.
+
+*   [eddycjy/blog](https://github.com/eddycjy/blog) - 煎鱼的博客，有点忙，传送门：https://eddycjy.com
+
+*   [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
+
+*   [zTree/zTree\_v3](https://github.com/zTree/zTree_v3) - jQuery Tree Plugin
+
+*   [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 前端开发面试题大收集，前端面试集锦 :heart: :gift\_heart: :cupid:
+
+*   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新8.00版 无界21.32正式版 自由门VPN 自由门 自由门使用教程 无界 无界浏览 无界VPN 翻墙软件 翻墙软件下载 翻墙软件教程 Mac翻墙软件 --自由天空
+
+*   [jackhutu/jackblog-api-koa](https://github.com/jackhutu/jackblog-api-koa) - Jackblog API Server Koa 版, 个人博客系统,  基于RESTful架构, 使用Node.js, Koa, MongoDB, Redis, Token Auth, 七牛云存储等.
+
+*   [54sword/xiaoduyuReactNative](https://github.com/54sword/xiaoduyuReactNative) - 🐟小度鱼 - 年轻人的交流社区 https://www.xiaoduyu.com
+
+*   [sandywalker/webui-popover](https://github.com/sandywalker/webui-popover) - A lightWeight popover plugin with jquery ,enchance the popover plugin of bootstrap with some awesome new features
+
+*   [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 
 ## Rust
 
