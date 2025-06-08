@@ -189,7 +189,7 @@
 
 *   [BoWangBlog/MacSoftware-recommend](https://github.com/BoWangBlog/MacSoftware-recommend) - 自用Mac软件下载网站，Mac效率工具，Chrome插件，Webstorm插件推荐
 
-*   [typeoneerror/notion-api-examples](https://github.com/typeoneerror/notion-api-examples) - Learn how you might use the Notion API to automate your Notion practice
+*   [typeoneerror/notion-api-examples](https://github.com/typeoneerror/notion-api-examples) - Learn how you might use the Notion API to automate your Notion practice.
 
 *   [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
 
@@ -449,7 +449,7 @@
 
 *   [Kourva/AwesomeChatGPTBot](https://github.com/Kourva/AwesomeChatGPTBot) - ChatGPT Telegram bot: Free & Rich-Feature bot for enhanced conversations.
 
-*   [dongyubin/Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve) - 2025年5月更新🚀苹果美区账号 APPLE ID🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点,翻墙梯子，Openai ChatGPT...
+*   [dongyubin/Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve) - 2025年6月更新🚀苹果美区账号 APPLE ID🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点,翻墙梯子，Openai ChatGPT...
 
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
@@ -457,7 +457,7 @@
 
 *   [linzjian666/chromego\_extractor](https://github.com/linzjian666/chromego_extractor) - A Python script to extract ChromeGo Proxies. 一个用来提取ChromeGo代理节点的Python脚本
 
-*   [xwy-morax/FreeClaude35Assistant](https://github.com/xwy-morax/FreeClaude35Assistant) -
+*   [PhantasmAI/FreeClaude35Assistant](https://github.com/PhantasmAI/FreeClaude35Assistant) -
 
 *   [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 
@@ -549,7 +549,7 @@
 
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
-*   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 🧩 支持 ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、...
+*   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 Easy-to-use global IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ Bots for QQ / Discord / WeChat（企业微信、个人微信）/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT、DeepSeek、Dify、n8n...
 
 *   [1nchaos/adata](https://github.com/1nchaos/adata) - 免费开源A股量化交易数据库； 专注A股，专注量化，向阳而生； 开放、纯净、持续、为Ai(爱)发电。为个人量化交易而生，保卫3000点，珍惜底部机会......【股票数据，股票行情数据，股票量化数据，股票交易数据，k线行情数据，股票概念数据，股票数据接口，行情数据接口，量化交易数据】【多数据源融合，动态设置代理，保障数据高可用性】
 
@@ -641,7 +641,7 @@
 
 *   [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) - 开箱即用的基于企业私有知识库的LLM大语言模型的智能客服机器人问答系统，支持私有化部署，代码免费开源且可商用，由芝麻小客服官方推出。
 
-*   [vacuityv/bob-plugin-vac-gptranslate](https://github.com/vacuityv/bob-plugin-vac-gptranslate) - 调用 openai-chatgpt、google-gemini、anthropic-claude、xai-grok、ali-qwen、deepseek 实现的 Bob 翻译插件，支持 gpt-4.1，gpt-4.1-mini，gpt-4o，gpt-4o-mini，o4-mini，gemini-2.5-pro，gemini-2.0-flash，claude-3.7-sonnet，claude-3.5...
+*   [vacuityv/bob-plugin-vac-gptranslate](https://github.com/vacuityv/bob-plugin-vac-gptranslate) - 调用 openai-chatgpt、google-gemini、anthropic-claude、xai-grok、ali-qwen、deepseek 实现的 Bob 翻译插件，支持 gpt-4.1，gpt-4.1-mini，gpt-4o，gpt-4o-mini，o4-mini，gemini-2.5-pro，gemini-2.0-flash，claude-sonnet-4，claude-3.7-s...
 
 *   [xxxily/code-flux](https://github.com/xxxily/code-flux) - A versatile tool for previewing and fine-tuning AI-generated frontend code, an online platform for running and publishing frontend code, and an open-source alternative to codepen, jsbin, jsfiddle, etc...
 
@@ -1170,8 +1170,6 @@
 *   [minooo/webpack-es6-react](https://github.com/minooo/webpack-es6-react) - 一个基础的，综合了webpack，es6，react的学习模板。
 
 *   [pstadler/flightplan](https://github.com/pstadler/flightplan) - Run sequences of shell commands against local and remote hosts.
-
-*   [quirkyshop/babyflux](https://github.com/quirkyshop/babyflux) - webpack + flux + react 脚手架
 
 ## TypeScript
 
@@ -1707,7 +1705,7 @@
 
 *   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub, Best for Your Net
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+*   [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 
 *   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
 
@@ -1795,7 +1793,7 @@
 
 *   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 
-*   [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo GUI.
+*   [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo GUI. 一个简易的 Mihomo 桌面客户端
 
 *   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 
@@ -1928,6 +1926,8 @@
 *   [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增PDF和Office文件解析上传】安卓端全场景GPT助手，可用音量键唤起并进行语音交流，支持联网、拍照、模板、PDF和Office文件解析等 | GPT assistant for Android, activated via volume keys for voice interaction, supporting features such as networking, taking p...
 
 *   [ffay/lanproxy](https://github.com/ffay/lanproxy) - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 736294209
+
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
 *   [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can...
 
