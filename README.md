@@ -8,13 +8,13 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [Shell](#shell)
-*   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [Dart](#dart)
@@ -42,9 +42,85 @@
 *   [Less](#less)
 *   [Makefile](#makefile)
 
+## HTML
+
+*   [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) - A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
+
+*   [xianyu110/awesome-nanobananapro-prompts](https://github.com/xianyu110/awesome-nanobananapro-prompts) - Nano Banana Pro 全网最全提示词整理
+
+*   [h88782481/Chat-Share](https://github.com/h88782481/Chat-Share) - 基于LQ的chat2api项目，搭建一个共享站，方便给自己的小伙伴们使用
+
+*   [vpntaiwan/vpntaiwan.github.io](https://github.com/vpntaiwan/vpntaiwan.github.io) - VPN台湾，本仓库提供免费VPN服务器订阅。可用于 Clash Meta 客户端 或其他基于 Clash Meta/SSR/V2ray等内核的代理工具进行访问谷歌、推特、facebook等海外平台的网络调试。请勿用于非法用途！
+
+*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
+
+*   [lc2panda/StockAnal\_Sys](https://github.com/lc2panda/StockAnal_Sys) - 一个基于Python和Flask的Web应用，整合了多维度股票分析能力和人工智能辅助决策功能。系统通过AKShare获取股票数据，结合技术分析、基本面分析和资金面分析，为投资者提供全方位的投资决策支持。
+
+*   [lm-rebooter/NuggetsBooklet](https://github.com/lm-rebooter/NuggetsBooklet) - 掘金小册
+
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
+*   [aigem/cursor-pro-trial](https://github.com/aigem/cursor-pro-trial) - 安全又简便快捷地换标识码，for cursor pro trial。
+
+*   [leetomlee123/freenode](https://github.com/leetomlee123/freenode) - v2ray节点、免费节点、免费v2ray节点、最新公益免费v2ray节点订阅地址、免费v2ray节点每日更新、免费v2ray/clash/singbox节点
+
+*   [TypingMind/typingmind](https://github.com/TypingMind/typingmind) - The most advanced Web UI for AI chat
+
+*   [CyberAlbSecOP/Awesome\_GPT\_Super\_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
+
+*   [swadhinbiswas/AIBOT](https://github.com/swadhinbiswas/AIBOT) - An advanced, versatile chatbot enhancing user interactions and automation on Telegram.
+
+*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
+
+*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
+
+*   [Mohammadgb0078/IRV2ray](https://github.com/Mohammadgb0078/IRV2ray) - Free V2ray Servers For Iran
+
+*   [bulianglin/psub](https://github.com/bulianglin/psub) - 利用CF Worker搭建的反代订阅转换工具
+
+*   [wx-chevalier/Awesome-Methodologies](https://github.com/wx-chevalier/Awesome-Methodologies) - :books: Ultimate CheatSheets(Tutorials\&MindMap), overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. :dizzy:  干货满满的全栈开发速学速查手册集锦
+
+*   [LouisShark/chatgpt\_system\_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
+
+*   [yibhou/charles-share](https://github.com/yibhou/charles-share) - Charles 代理工具分享
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
+
+*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+
+*   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
+
+*   [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
+
+*   [beakerbrowser/beakerbrowser.com](https://github.com/beakerbrowser/beakerbrowser.com) - Source code for https://beakerbrowser.com
+
+*   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
+
+*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Vercel/Heroku/SCF/FG/FC/CFC/PHP web hosting/VPS.
+
+*   [iiiiiii1/CTList](https://github.com/iiiiiii1/CTList) - Sample list for CTCloud.
+
+*   [eddycjy/blog](https://github.com/eddycjy/blog) - 煎鱼的博客，有点忙，传送门：https://eddycjy.com
+
+*   [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
+
+*   [zTree/zTree\_v3](https://github.com/zTree/zTree_v3) - jQuery Tree Plugin
+
+*   [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 前端开发面试题大收集，前端面试集锦 :heart: :gift\_heart: :cupid:
+
+*   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新8.05版 无界22.11版 自由门 自由门VPN 自由门教程 无界 无界VPN 无界浏览 翻墙 翻墙VPN 翻墙软件 翻墙软件下载 翻墙软件教程 翻墙tips 免费翻墙 翻墙梯子 翻墙工具 Mac翻墙软件 自由翻墙 安全翻墙 翻墙教程 翻墙tutorial 翻墙入门 一键翻墙 手机翻墙 翻墙技术 翻墙论坛 翻墙机场 翻墙资源
+
+*   [hutuxuhui/jackblog-api-koa](https://github.com/hutuxuhui/jackblog-api-koa) - Jackblog API Server Koa 版, 个人博客系统,  基于RESTful架构, 使用Node.js, Koa, MongoDB, Redis, Token Auth, 七牛云存储等.
+
+*   [54sword/xiaoduyuReactNative](https://github.com/54sword/xiaoduyuReactNative) - 🐟小度鱼 - 年轻人的交流社区 https://www.xiaoduyu.com
+
+*   [sandywalker/webui-popover](https://github.com/sandywalker/webui-popover) - A lightWeight popover plugin with jquery ,enchance the popover plugin of bootstrap with some awesome new features
+
 ## TypeScript
 
-*   [waoowaooAI/waoowaoo](https://github.com/waoowaooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
+*   [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
@@ -62,7 +138,7 @@
 
 *   [MrXujiang/flowmix-flow](https://github.com/MrXujiang/flowmix-flow) - 一款基于react-flow的工作流编辑器
 
-*   [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native PPT generator based on nano banana pro🍌
+*   [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
 
 *   [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
 
@@ -255,6 +331,8 @@
 *   [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 
 *   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+
+*   [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 
 *   [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 
@@ -487,6 +565,8 @@
 *   [huggingface/skills](https://github.com/huggingface/skills) -
 
 *   [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+
+*   [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies
 
 *   [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) - Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.
 
@@ -754,8 +834,6 @@
 
 *   [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 
-*   [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies
-
 *   [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 
 *   [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) - 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI i...
@@ -774,7 +852,7 @@
 
 *   [J3n5en/bye](https://github.com/J3n5en/bye) -
 
-*   [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks
+*   [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
 
 *   [TopChina/proxy-list](https://github.com/TopChina/proxy-list) - Free proxy list HTTP, Socks4 and Socks5 open proxy lists
 
@@ -1112,7 +1190,7 @@
 
 *   [deanxv/hixAI2api](https://github.com/deanxv/hixAI2api) -
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 
 *   [linux-do/override](https://github.com/linux-do/override) - 啥也不是
 
@@ -1125,8 +1203,6 @@
 *   [aurorax-neo/free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
 
 *   [aurora-develop/Duck2api](https://github.com/aurora-develop/Duck2api) -
-
-*   [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 
 *   [linux-do/new-api](https://github.com/linux-do/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
 
@@ -1349,80 +1425,6 @@
 *   [samuelhbne/vpn-launchpad](https://github.com/samuelhbne/vpn-launchpad) - Build VPN server on AWS EC2 with QR code support. Build SOCKS/HTTP/DNS proxy locally. Support Ubuntu, OSX and Debian variants like Raspbian.
 
 *   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-
-## HTML
-
-*   [xianyu110/awesome-nanobananapro-prompts](https://github.com/xianyu110/awesome-nanobananapro-prompts) - Nano Banana Pro 全网最全提示词整理
-
-*   [h88782481/Chat-Share](https://github.com/h88782481/Chat-Share) - 基于LQ的chat2api项目，搭建一个共享站，方便给自己的小伙伴们使用
-
-*   [vpntaiwan/vpntaiwan.github.io](https://github.com/vpntaiwan/vpntaiwan.github.io) - VPN台湾，本仓库提供免费VPN服务器订阅。可用于 Clash Meta 客户端 或其他基于 Clash Meta/SSR/V2ray等内核的代理工具进行访问谷歌、推特、facebook等海外平台的网络调试。请勿用于非法用途！
-
-*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
-
-*   [lc2panda/StockAnal\_Sys](https://github.com/lc2panda/StockAnal_Sys) - 一个基于Python和Flask的Web应用，整合了多维度股票分析能力和人工智能辅助决策功能。系统通过AKShare获取股票数据，结合技术分析、基本面分析和资金面分析，为投资者提供全方位的投资决策支持。
-
-*   [lm-rebooter/NuggetsBooklet](https://github.com/lm-rebooter/NuggetsBooklet) - 掘金小册
-
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-
-*   [aigem/cursor-pro-trial](https://github.com/aigem/cursor-pro-trial) - 安全又简便快捷地换标识码，for cursor pro trial。
-
-*   [leetomlee123/freenode](https://github.com/leetomlee123/freenode) - v2ray节点、免费节点、免费v2ray节点、最新公益免费v2ray节点订阅地址、免费v2ray节点每日更新、免费v2ray/clash/singbox节点
-
-*   [TypingMind/typingmind](https://github.com/TypingMind/typingmind) - The most advanced Web UI for AI chat
-
-*   [CyberAlbSecOP/Awesome\_GPT\_Super\_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
-
-*   [swadhinbiswas/AIBOT](https://github.com/swadhinbiswas/AIBOT) - An advanced, versatile chatbot enhancing user interactions and automation on Telegram.
-
-*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
-
-*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
-
-*   [Mohammadgb0078/IRV2ray](https://github.com/Mohammadgb0078/IRV2ray) - Free V2ray Servers For Iran
-
-*   [bulianglin/psub](https://github.com/bulianglin/psub) - 利用CF Worker搭建的反代订阅转换工具
-
-*   [wx-chevalier/Awesome-Methodologies](https://github.com/wx-chevalier/Awesome-Methodologies) - :books: Ultimate CheatSheets(Tutorials\&MindMap), overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. :dizzy:  干货满满的全栈开发速学速查手册集锦
-
-*   [LouisShark/chatgpt\_system\_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
-
-*   [yibhou/charles-share](https://github.com/yibhou/charles-share) - Charles 代理工具分享
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
-
-*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-
-*   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
-
-*   [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
-
-*   [beakerbrowser/beakerbrowser.com](https://github.com/beakerbrowser/beakerbrowser.com) - Source code for https://beakerbrowser.com
-
-*   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
-
-*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Vercel/Heroku/SCF/FG/FC/CFC/PHP web hosting/VPS.
-
-*   [iiiiiii1/CTList](https://github.com/iiiiiii1/CTList) - Sample list for CTCloud.
-
-*   [eddycjy/blog](https://github.com/eddycjy/blog) - 煎鱼的博客，有点忙，传送门：https://eddycjy.com
-
-*   [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
-
-*   [zTree/zTree\_v3](https://github.com/zTree/zTree_v3) - jQuery Tree Plugin
-
-*   [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 前端开发面试题大收集，前端面试集锦 :heart: :gift\_heart: :cupid:
-
-*   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新8.05版 无界22.11版 自由门 自由门VPN 自由门教程 无界 无界VPN 无界浏览 翻墙 翻墙VPN 翻墙软件 翻墙软件下载 翻墙软件教程 翻墙tips 免费翻墙 翻墙梯子 翻墙工具 Mac翻墙软件 自由翻墙 安全翻墙 翻墙教程 翻墙tutorial
-
-*   [hutuxuhui/jackblog-api-koa](https://github.com/hutuxuhui/jackblog-api-koa) - Jackblog API Server Koa 版, 个人博客系统,  基于RESTful架构, 使用Node.js, Koa, MongoDB, Redis, Token Auth, 七牛云存储等.
-
-*   [54sword/xiaoduyuReactNative](https://github.com/54sword/xiaoduyuReactNative) - 🐟小度鱼 - 年轻人的交流社区 https://www.xiaoduyu.com
-
-*   [sandywalker/webui-popover](https://github.com/sandywalker/webui-popover) - A lightWeight popover plugin with jquery ,enchance the popover plugin of bootstrap with some awesome new features
 
 ## JavaScript
 
@@ -1879,8 +1881,6 @@
 *   [o2team/athena2](https://github.com/o2team/athena2) - Build tool based on Webpack
 
 *   [jjonline/calendar.js](https://github.com/jjonline/calendar.js) - 中国农历（阴阳历）和西元阳历即公历互转JavaScript库
-
-*   [DivXPro/vue-fullcalendar](https://github.com/DivXPro/vue-fullcalendar) - vue calendar fullCalendar. no jquery required. Schedule events management
 
 ## Rust
 
